@@ -1,0 +1,55 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+.amar_navbar{
+    background-color: transparent;
+    border: none;
+}
+.logo{
+    margin-top: 67px;
+}
+.navbar ul li a{
+    margin-top: 60px;
+    padding-left: 70px;
+    font-size: 10pt;
+}
+.slider_part{
+    margin-top: 50px;
+}
+.slider_part img{
+    width: 100%;
+}
+.maintext{
+        padding: 0px 62px;color: #626262;
+}
+.title{margin-top: 77px;
+    color: #c7c1b6;font-size: 11pt;text-transform: uppercase;font-family: 'Ubuntu', sans-serif;
+}
+.main_header{
+    color: #626262;
+    margin-bottom: 33px;
+    font-size: 20pt;
+}
+.gallery{margin-top: 123px;
+     padding: 0px 62px;
+}
+.newsletter{
+    min-height: 246px;
+    background-color: #f0f0f0;
+}
+.news_form{
+    margin-top: 60px;
+}
+.news{margin-top: 70px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.form_btn{
+    background-color: transparent;
+    border: none;
+}
+.foot, .foot2{margin-top: 50px;
+    min-height: 90px;
+    background-color: #f0f0f0;padding-top: 20px;
+}
